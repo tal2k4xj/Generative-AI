@@ -13,3 +13,8 @@
 [Call for Code for Startups Website](https://cfc-startups.skillsnetwork.site/)
 
 
+## Watsonx service
+
+To use this service you have to create an IBM Cloud account.
+
+[Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio)
